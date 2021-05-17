@@ -7,8 +7,8 @@ const dev = {
 
 const prod = {
    url: {
-     baseBackendURL: '',
-     baseAPIURL: '',
+     baseBackendURL: 'https://cowin-artificial-brix.herokuapp.com',
+     baseAPIURL: 'https://cowin-artificial-brix.herokuapp.com/api/v2',
   }
 }
 
