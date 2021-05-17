@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wincovidv2.0-frontend/static/css/main.6ca35516.chunk.css",
+    "main.js": "/wincovidv2.0-frontend/static/js/main.a4f6343f.chunk.js",
+    "main.js.map": "/wincovidv2.0-frontend/static/js/main.a4f6343f.chunk.js.map",
+    "runtime-main.js": "/wincovidv2.0-frontend/static/js/runtime-main.3eaf3140.js",
+    "runtime-main.js.map": "/wincovidv2.0-frontend/static/js/runtime-main.3eaf3140.js.map",
+    "static/css/2.2d99492e.chunk.css": "/wincovidv2.0-frontend/static/css/2.2d99492e.chunk.css",
+    "static/js/2.bd22051e.chunk.js": "/wincovidv2.0-frontend/static/js/2.bd22051e.chunk.js",
+    "static/js/2.bd22051e.chunk.js.map": "/wincovidv2.0-frontend/static/js/2.bd22051e.chunk.js.map",
+    "index.html": "/wincovidv2.0-frontend/index.html",
+    "static/css/2.2d99492e.chunk.css.map": "/wincovidv2.0-frontend/static/css/2.2d99492e.chunk.css.map",
+    "static/css/main.6ca35516.chunk.css.map": "/wincovidv2.0-frontend/static/css/main.6ca35516.chunk.css.map",
+    "static/js/2.bd22051e.chunk.js.LICENSE.txt": "/wincovidv2.0-frontend/static/js/2.bd22051e.chunk.js.LICENSE.txt",
+    "static/media/background.ca63abef.svg": "/wincovidv2.0-frontend/static/media/background.ca63abef.svg",
+    "static/media/call.4006a49f.svg": "/wincovidv2.0-frontend/static/media/call.4006a49f.svg",
+    "static/media/fight.be8f422c.png": "/wincovidv2.0-frontend/static/media/fight.be8f422c.png",
+    "static/media/stayHome.4240f10e.png": "/wincovidv2.0-frontend/static/media/stayHome.4240f10e.png",
+    "static/media/virus.5251f1de.svg": "/wincovidv2.0-frontend/static/media/virus.5251f1de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eaf3140.js",
+    "static/css/2.2d99492e.chunk.css",
+    "static/js/2.bd22051e.chunk.js",
+    "static/css/main.6ca35516.chunk.css",
+    "static/js/main.a4f6343f.chunk.js"
+  ]
+}
